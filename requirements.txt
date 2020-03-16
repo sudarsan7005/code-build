@@ -1,7 +1,4 @@
 pandas
 numpy
-datetime
 sqlalchemy
-calendar
-Json
 Psycopg2
